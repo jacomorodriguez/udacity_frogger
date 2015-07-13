@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: 'Helvetica', 'Arial', Sans-Serif ;
+}
+
+div {
+	position: relative;
+	margin: 0 auto;
+	width: 505px;
+	text-align: left;
+}
